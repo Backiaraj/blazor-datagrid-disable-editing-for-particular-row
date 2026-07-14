@@ -1,4 +1,4 @@
-# Blazor DataGrid — Disable Editing for Particular Rows
+# Blazor DataGrid - Disable Editing for Particular Rows
 
 A sample Blazor application demonstrating how to conditionally disable editing for specific rows in the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component based on row data criteria.
 
