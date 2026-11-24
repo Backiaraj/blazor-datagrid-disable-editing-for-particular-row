@@ -48,6 +48,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/in-line-editing
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/in-line-editing
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/inline-editing?theme=fluent2
