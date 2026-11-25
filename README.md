@@ -17,34 +17,31 @@ This repository demonstrates how to selectively disable row editing in the Blazo
 ## Prerequisites
 
 * [.NET SDK 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) or later
-* [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/) or [Visual Studio Code](https://code.visualstudio.com/)
 
-## Getting Started
+## Run with Visual Studio
 
-### Clone the repository
+**Visual Studio 2026**:
+
+* Checkout this project to a location in your disk.
+* Open the project (`DisableEditing.csproj`) file.
+* Restore the NuGet packages.
+* Run the project.
+
+**Visual Studio Code**:
+
+* Checkout this project to a location in your disk.
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
 
 ```bash
-git clone https://github.com/SyncfusionExamples/blazor-datagrid-disable-editing-for-particular-row.git
 cd blazor-datagrid-disable-editing-for-particular-row
-```
-
-### Run with Visual Studio
-
-1. Open the solution file using Visual Studio 2022 or later.
-2. Restore the NuGet packages by rebuilding the solution.
-3. Build the project to ensure there are no compilation errors.
-4. Run the project.
-
-### Run with .NET CLI
-
-```bash
-# Restore dependencies
 dotnet restore
-
-# Run the project
 dotnet run
 ```
+
+Open the URL displayed in the terminal after the application starts.
 
 ## References
 
